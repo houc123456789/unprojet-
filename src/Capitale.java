@@ -1,4 +1,7 @@
 // premier commit aaaaaaaaaaa
+
+//  deuxieme commentaire
+// troisieme commit
 public class Capitale /*extends Ville*/{
 
 	private String nomCapitale;
