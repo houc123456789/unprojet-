@@ -3,6 +3,7 @@
 //  deuxieme commentaire
 // troisieme commit
 //aaaa
+//bbb
 public class Capitale /*extends Ville*/{
 
 	private String nomCapitale;
