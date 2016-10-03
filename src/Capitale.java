@@ -4,6 +4,8 @@
 // troisieme commit
 //aaaa
 //bbb
+//nouveau commentaire
+//nautre  commentaire
 public class Capitale /*extends Ville*/{
 
 	private String nomCapitale;
