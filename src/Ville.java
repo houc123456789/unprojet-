@@ -5,6 +5,7 @@ public class Ville {
 	private String nomVille;
 	private int nbHabitantsVille;
 	private int superficieVille;
+	private String ivannaQuiVeutRessembleraIbrahima;
 	//private Pays sonPays;
 	
 	public Ville(String unNomVille, int unNbHabitantVille, int uneSuperficieVille, ArrayList<Ville>lesVilles){
